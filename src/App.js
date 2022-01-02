@@ -10,7 +10,7 @@ axios.defaults.headers.post['Content-Type'] = 'application/json';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/skynetreact">
         <Routes>
             <Route exact path='/' element={<Home />} />
             <Route exact path='/partner-registration' element={<PartnerRegistration />} />
