@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/skynetreact/static/css/main.a617e044.chunk.css",
+    "main.js": "/skynetreact/static/js/main.10a97ab0.chunk.js",
+    "main.js.map": "/skynetreact/static/js/main.10a97ab0.chunk.js.map",
+    "runtime-main.js": "/skynetreact/static/js/runtime-main.97bd2111.js",
+    "runtime-main.js.map": "/skynetreact/static/js/runtime-main.97bd2111.js.map",
+    "static/js/2.5353cf80.chunk.js": "/skynetreact/static/js/2.5353cf80.chunk.js",
+    "static/js/2.5353cf80.chunk.js.map": "/skynetreact/static/js/2.5353cf80.chunk.js.map",
+    "index.html": "/skynetreact/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/skynetreact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5353cf80.chunk.js.LICENSE.txt": "/skynetreact/static/js/2.5353cf80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97bd2111.js",
+    "static/js/2.5353cf80.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.10a97ab0.chunk.js"
+  ]
+}

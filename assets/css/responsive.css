@@ -1,0 +1,36 @@
+@media only screen and (max-width: 1199px) {
+  .header-top h4 {font-size: 20px;}
+  .header-top-right ul li h5 span, .header-top-right ul li h5 span > a{font-size: 14px;}
+  .header-top-right ul li h5 i{font-size: 36px;}
+  ul.social-network li{margin: 0 4px}
+}
+
+@media only screen and (max-width: 991px) {
+  .navbar-expand-sm .navbar-nav .nav-link{padding: 12px;}
+  button.navbar-toggler {margin-right: 15px;}
+  .navbar-light .navbar-nav .nav-link{padding: 8px 15px;}
+  #mobile_nav{padding: 0;}
+  .megamenu-li{width: 100%;}
+  .footer-top .col-sm-12{flex: 0 0 50% !important;max-width: 50% !important;}
+  .footer-pad{margin-bottom: 25px;}
+}
+
+@media only screen and (max-width: 767px) {
+  .header-top{text-align: center;}
+  .footer-top .col-sm-12{flex: 0 0 100% !important;max-width: 100% !important;}
+  .main-section-heading{font-size: 30px;}
+  .form-module{padding: 40px 50px;}
+  .form-module h2{font-size: 27px;}
+  .form-module .col-6 {flex: 0 0 100%;webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;max-width: 100%;}
+  .modal-dialog{left: 0;margin: 0;}
+}
+@media only screen and (max-width: 479px) {
+  .header-top h4 {font-size: 15px;}
+  .form-section h3 {font-size: 24px;}
+  .form-module {padding: 40px 30px;}
+  .form-module h2{font-size: 23px;}
+}
+@media only screen and (max-width: 479px) {
+  .form-section h3 {font-size: 21px;}
+}
